@@ -35,3 +35,5 @@ imagens a inserir neste arquivo:
 ![cd11_expecv3.png](https://github.com/geosidnei/desafio1-cd/blob/main/cd11_expecv3.png)
 
 ![cd12_America.png](https://github.com/geosidnei/desafio1-cd/blob/main/cd12_America.png)
+
+![cd12_AmericaGrafico.png](https://github.com/geosidnei/desafio1-cd/blob/main/cd12_AmericaGrafico.png)
