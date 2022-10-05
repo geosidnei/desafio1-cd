@@ -55,3 +55,25 @@ Mas, como os números no gráfico estavam em formato científico, foi necessári
 
 ![11-numeros-amigaveis-Lucro%20por%20Ano](https://github.com/geosidnei/desafio1-cd/blob/main/11-numeros-amigaveis-Lucro%20por%20Ano.png)
 
+Criação da tabela de vendas apenas para o ano 2009:
+
+
+![12-vendas%20de%202009](https://github.com/geosidnei/desafio1-cd/blob/main/12-vendas%20de%202009.png)
+
+
+Gráfico de linhas já com as letras da legenda do eixo x na horizontal:
+
+
+![13-grafico-linha-lucro-por-mes](https://github.com/geosidnei/desafio1-cd/blob/main/13-grafico-linha-lucro-por-mes)
+
+
+Gráfico de colunas com o lucro por marca, mas esqueci de transformar os números em amigáveis aos humanos...
+
+
+![14-Lucro%20por%20Marca](https://github.com/geosidnei/desafio1-cd/blob/main/14-Lucro%20por%20Marca)
+
+
+Gráfico de colunas com o lucro por classe de produto:
+
+
+![15-grafico-lucro por classe](https://github.com/geosidnei/desafio1-cd/blob/main/15-grafico-lucro por classe)
