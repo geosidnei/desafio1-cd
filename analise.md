@@ -76,4 +76,30 @@ Gráfico de colunas com o lucro por marca, mas esqueci de transformar os número
 Gráfico de colunas com o lucro por classe de produto:
 
 
-![15-grafico-lucro por classe](https://github.com/geosidnei/desafio1-cd/blob/main/15-grafico-lucro por classe)
+![15-grafico-lucro%20por%20classe](https://github.com/geosidnei/desafio1-cd/blob/main/https://github.com/geosidnei/desafio1-cd/blob/main/15-grafico-lucro%20por%20classe.png)
+
+
+Uma estatística da coluna Tempo de Envio...
+
+![16-describe](https://github.com/geosidnei/desafio1-cd/blob/main/16-describe.png)
+
+
+E o gráfico de box plot, que representa os dados constantes acima, no qual a bolinha no 20 é o valor discrepante superior, a caixa contém os três primeiros quartis e o valor mínimo é a base, no caso o valor 4:
+
+
+![17-grafico-box-plot-tempo-envio](https://github.com/geosidnei/desafio1-cd/blob/main/17-grafico-box-plot-tempo-envio.png)
+
+
+E é isso!
+
+Nâo tenho palavras para agradecer à DIO pela oportunidade de fazer uma digna transição de carreira!
+Professora Fernanda, muito obrigado, de coração!
+
+Módulos deste curso:
+
+    CSV: [https://github.com/geosidnei/desafio1-cd/blob/main/csv.md
+
+    Excel: [https://github.com/geosidnei/desafio1-cd/blob/main/excel.md]
+
+    
+
