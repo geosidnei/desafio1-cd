@@ -38,8 +38,6 @@ Extraindo dados, como mês e dia da venda e outros processamentos derivados dess
 E outros processantos, bem como a triação da coluna Trimestre_venda:
 
 
-E seu gráfico de colunas relacionado:
-
 ![exc7_working5](https://github.com/geosidnei/desafio1-cd/blob/main/exc7_working5.png)
 
 Criação da coluna vendas de março de 2019:
@@ -50,6 +48,8 @@ Contagem dos valores por loja:
 
 ![exc9_value_counts](https://github.com/geosidnei/desafio1-cd/blob/main/exc9_value_counts.png)
 
+
+E seu gráfico de colunas relacionado:
 
 
 ![exc10_grafico_vendas_por_cidade](https://github.com/geosidnei/desafio1-cd/blob/main/exc10_grafico_vendas_por_cidade.png)
