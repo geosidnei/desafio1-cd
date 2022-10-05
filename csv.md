@@ -10,15 +10,24 @@ O comando df.head() funcionou:
 
 ![cd2.png](https://github.com/geosidnei/desafio1-cd/blob/main/cd2.png)
 
+Seguindo os passos da Profa Fernanda, a próxima etapa foi renomear as colunas, como mostrado abaixo:
+
 ![cd3_renomeando_colunas.png](https://github.com/geosidnei/desafio1-cd/blob/main/cd3_renomeando_colunas.png)
+
+Em seguida, o comando df.shape indica as linhas e colunas da base de dados:
 
 ![cd4_shape_tamanho_planilha.png](https://github.com/geosidnei/desafio1-cd/blob/main/cd4_shape_tamanho_planilha.png)
 
+O comando dtypes informa os tipos de dados da base:
 ![cd5_dtypes_tipos_de_dados.png](https://github.com/geosidnei/desafio1-cd/blob/main/cd5_dtypes_tipos_de_dados.png)
+
+No SPYDER tem que abrir uma janela extra para ver todas as colunas da planilha:
+![cd6a_tail_expec_vida.png](https://github.com/geosidnei/desafio1-cd/blob/main/cd6a_tail_expec_vida.png)
+
+Mas, como professor de geografia, não poderia deixar de comentar estes  dados da parte final da planilha: vejam na imagem acima e na imagem abaixo baixas expectativas de vida e PIB per capita na África!
 
 ![cd6_tail.png](https://github.com/geosidnei/desafio1-cd/blob/main/cd6_tail.png)
 
-![cd6a_tail_expec_vida.png](https://github.com/geosidnei/desafio1-cd/blob/main/cd6a_tail_expec_vida.png)
 
 ![cd7_describe_estats.png](https://github.com/geosidnei/desafio1-cd/blob/main/cd7_describe_estats.png)
 
