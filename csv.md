@@ -49,12 +49,12 @@ Uma contagem fica fácil com a integração do agrupamento por colunas e o coman
 
 ![cd10_groupby.png](https://github.com/geosidnei/desafio1-cd/blob/main/cd10_groupby.png)
 
-A média da expectativa de vida para cada no requer um agrupamento dos anos, expectativas de vida e cálculo da média de cada ano:
-(1950 a 1952)
+A média da expectativa de vida para cada ano requer um agrupamento dos anos, das expectativas de vida e o cálculo da média de cada ano:
+(1950 a 1952)...
 
 ![cd11_expecv1.png](https://github.com/geosidnei/desafio1-cd/blob/main/cd11_expecv1.png)
 
-(E o recorte para 2003 a 2007):
+E o recorte mostra o final dos dados  (2003 a 2007):
 
 ![cd11_expecv2.png](https://github.com/geosidnei/desafio1-cd/blob/main/cd11_expecv2.png)
 
