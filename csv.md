@@ -1,10 +1,12 @@
 
-Módulo 1 - Leitura do arquivo csv
+Módulo 1 - Trabalhando com o arquivo do tipo csv
 
-imagens a inserir neste arquivo:
-
+Preferi trabalhar offline, então instalei o ambiente Anaconda e fiz todo o trabalho usando sua IDE SPYDER (Scientific PYthon Development EnviRonment) na versão 5.1.5, mostrada na figura abaixo:
 
 ![cd1.png](https://github.com/geosidnei/desafio1-cd/blob/main/cd1.png)
+
+Para abrir o arquivo localmente precisei apenas informar seu caminho correto. 
+O comando df.head() funcionou:
 
 ![cd2.png](https://github.com/geosidnei/desafio1-cd/blob/main/cd2.png)
 
