@@ -63,3 +63,20 @@ E um gráfico de setores com as vendas anuais:
 
 ![exc11_grafico_setores_vendas_por_ano](https://github.com/geosidnei/desafio1-cd/blob/main/exc11_grafico_setores_vendas_por_ano.png)
 
+
+E o gráfico de linha com o total de produtos vendidos por mês:
+
+![exc14_grafico_linhas_Vendas_Mes](https://github.com/geosidnei/desafio1-cd/blob/main/exc14_grafico_linhas_Vendas_Mes.png)
+
+
+Criando uma tabela só das vendas de 2019 e o total de vendas por mês:
+
+
+![exc15a_tabela_vendas_2019_](https://github.com/geosidnei/desafio1-cd/blob/main/exc15a_tabela_vendas_2019_.png)
+
+
+E o gráfico de linha dos dados da visão acima:
+
+
+![exc16_grafico_vendas_2019_legendas](https://github.com/geosidnei/desafio1-cd/blob/main/exc16_grafico_vendas_2019_legendas.png)
+
