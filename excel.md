@@ -90,3 +90,9 @@ Concluindo este módulo temos um histograma das quantidades de vendas por mês:
 
 
 ![exc17_histograma_vendas](https://github.com/geosidnei/desafio1-cd/blob/main/exc17_histograma_vendas.png)
+
+Home -----> https://github.com/geosidnei/desafio1-cd/blob/main/README.md 
+
+Módulo 1 -> https://github.com/geosidnei/desafio1-cd/blob/main/csv.md
+
+Módulo 3 -> [https://github.com/geosidnei/desafio1-cd/blob/main/analise.md] 
