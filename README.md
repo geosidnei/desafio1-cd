@@ -8,4 +8,4 @@ Módulos deste curso:
 
 2. Excel: [https://github.com/geosidnei/desafio1-cd/blob/main/excel.md]
 
-3. Análise exploratória: [[https://github.com/geosidnei/desafio1-cd/blob/main/]
+3. Análise exploratória: [https://github.com/geosidnei/desafio1-cd/blob/main/analise.md]
