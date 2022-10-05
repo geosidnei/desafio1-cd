@@ -53,3 +53,13 @@ E um gráfico de colunas relacionado às vendas totais por cidade da região nor
 
 
 ![exc10_grafico_vendas_por_cidade](https://github.com/geosidnei/desafio1-cd/blob/main/exc10_grafico_vendas_por_cidade.png)
+
+E com a cor modificada para vermelho:
+
+![exc13_grafico_barras_vendas_totais_por_cidade_red](https://github.com/geosidnei/desafio1-cd/blob/main/exc13_grafico_barras_vendas_totais_por_cidade_red.png))
+
+E um gráfico de setores com as vendas anuais:
+
+
+![exc11_grafico_setores_vendas_por_ano](https://github.com/geosidnei/desafio1-cd/blob/main/exc11_grafico_setores_vendas_por_ano.png)
+
