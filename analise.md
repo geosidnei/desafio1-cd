@@ -28,3 +28,26 @@ Operações para saber a média do tempo de envio por marca e se há colunas com
 
 
 ![6-m%C3%A9dias](https://github.com/geosidnei/desafio1-cd/blob/main/6-m%C3%A9dias.png)
+
+
+Passando os números para formato amigável aos humanos (em minha IDE tive que colocar outros parâmetros dentro das chaves, mas deu certo:
+
+
+![7-n%C3%BAmeros-humano-amigaveis](https://github.com/geosidnei/desafio1-cd/blob/main/7-n%C3%BAmeros-humano-amigaveis.png)
+
+Total de vendas para cada produto do estoque:
+
+
+![8-total-vendas](https://github.com/geosidnei/desafio1-cd/blob/main/8-total-vendas.png)
+
+
+E na forma de gráfico de barras:
+
+![9-Gr%C3%A1fico_Total_de_Vendas](https://github.com/geosidnei/desafio1-cd/blob/main/9-Gr%C3%A1fico_Total_de_Vendas.png)
+
+
+O gráfico do lucro por ano:
+
+
+![10-Gr%C3%A1fico_Lucro-por-Ano](https://github.com/geosidnei/desafio1-cd/blob/main/10-Gr%C3%A1fico_Lucro-por-Ano.png)
+
