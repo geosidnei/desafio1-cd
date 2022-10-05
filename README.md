@@ -1,6 +1,9 @@
 
 Desafio de Projeto do Bootcamp de Ciência de Dados Unimed-BH/DIO
-Professora Fernanda Santos:
+
+![bootcamp](https://github.com/geosidnei/desafio1-cd/blob/main/bootcamp.png)
+
+Professora Fernanda Santos.
 
 Módulos deste curso:
 
