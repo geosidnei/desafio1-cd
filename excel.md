@@ -49,7 +49,7 @@ Contagem dos valores por loja:
 ![exc9_value_counts](https://github.com/geosidnei/desafio1-cd/blob/main/exc9_value_counts.png)
 
 
-E seu gráfico de colunas relacionado:
+E um gráfico de colunas relacionado às vendas totais por cidade da região nordeste onde a rede tem unidades de suas lojas:
 
 
 ![exc10_grafico_vendas_por_cidade](https://github.com/geosidnei/desafio1-cd/blob/main/exc10_grafico_vendas_por_cidade.png)
