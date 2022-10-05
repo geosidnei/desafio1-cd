@@ -51,3 +51,7 @@ O gráfico do lucro por ano:
 
 ![10-Gr%C3%A1fico_Lucro-por-Ano](https://github.com/geosidnei/desafio1-cd/blob/main/10-Gr%C3%A1fico_Lucro-por-Ano.png)
 
+Mas, como os números no gráfico estavam em formato científico, foi necessário convertê-los para um formato mais amigável aos humanos:
+
+![11-numeros-amigaveis-Lucro%20por%20Ano](https://github.com/geosidnei/desafio1-cd/blob/main/11-numeros-amigaveis-Lucro%20por%20Ano.png)
+
