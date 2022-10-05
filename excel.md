@@ -56,7 +56,7 @@ E um gráfico de colunas relacionado às vendas totais por cidade da região nor
 
 E com a cor modificada para vermelho:
 
-![exc13_grafico_barras_vendas_totais_por_cidade_red](https://github.com/geosidnei/desafio1-cd/blob/main/exc13_grafico_barras_vendas_totais_por_cidade_red.png))
+![exc13_grafico_barras_vendas_totais_por_cidade_red](https://github.com/geosidnei/desafio1-cd/blob/main/exc13_grafico_barras_vendas_totais_por_cidade_red.png)
 
 E um gráfico de setores com as vendas anuais:
 
@@ -80,3 +80,7 @@ E o gráfico de linha dos dados da visão acima:
 
 ![exc16_grafico_vendas_2019_legendas](https://github.com/geosidnei/desafio1-cd/blob/main/exc16_grafico_vendas_2019_legendas.png)
 
+Um gráfico de dispersão em torno dos dias de venda dos produtos:
+
+
+![exc17_dispers%C3%A3o_dias_das_vendas](https://github.com/geosidnei/desafio1-cd/blob/main/exc17_dispers%C3%A3o_dias_das_vendas.png)
