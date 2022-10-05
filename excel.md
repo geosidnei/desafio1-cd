@@ -23,3 +23,27 @@ O trabalho continua com as menores receitas, as vendas totais por cidade e a ord
 
 ![exc4_working2](https://github.com/geosidnei/desafio1-cd/blob/main/exc4_working2.png)
 
+
+Como os dados que abri já estavamo no formato correto, a seguir agrupamos as vendas por ano e somamos as receitas totais de cada ano:
+
+
+![exc5_working3](https://github.com/geosidnei/desafio1-cd/blob/main/exc5_working3.png)
+
+
+Extraindo dados, como mês e dia da venda e outros processamentos derivados dessa extração:
+
+![exc6_working4](https://github.com/geosidnei/desafio1-cd/blob/main/exc6_working4.png)
+
+
+E outros processantos, bem como a triação da coluna Trimestre_venda:
+
+
+![exc7_working5](https://github.com/geosidnei/desafio1-cd/blob/main/exc7_working5.png)
+
+Criação da coluna vendas de março de 2019:
+
+![exc8_vendas_marco_2019](https://github.com/geosidnei/desafio1-cd/blob/main/exc8_vendas_marco_2019.png)
+
+Contagem dos valores por loja:
+
+![exc9_value_counts](https://github.com/geosidnei/desafio1-cd/blob/main/exc9_value_counts.png)
