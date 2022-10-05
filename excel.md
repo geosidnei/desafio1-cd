@@ -85,6 +85,8 @@ Um gráfico de dispersão em torno dos dias de venda dos produtos:
 
 ![exc17_dispers%C3%A3o_dias_das_vendas](https://github.com/geosidnei/desafio1-cd/blob/main/exc17_dispers%C3%A3o_dias_das_vendas.png)
 
+
 Concluindo este módulo temos um histograma das quantidades de vendas por mês:
+
 
 ![exc17_histograma_vendas](https://github.com/geosidnei/desafio1-cd/blob/main/exc17_histograma_vendas.png)
