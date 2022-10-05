@@ -71,5 +71,6 @@ Procedemos à criação de outro subconjunto de dados, agora para a América (fa
 
 ![cd12_America.png](https://github.com/geosidnei/desafio1-cd/blob/main/cd12_America.png)
 
-E o gráfico dos países da América escolhidos para esta base de dados, para completar este ótimo exercício que a professora Fernanda nos passou:
+E o gráfico dos países da América escolhidos para esta base de dados, para completar este ótimo primeiro exercício que a professora Fernanda nos passou:
+
 ![cd12_AmericaGrafico.png](https://github.com/geosidnei/desafio1-cd/blob/main/cd12_AmericaGrafico.png)
