@@ -76,8 +76,8 @@ E o gráfico dos países da América escolhidos para esta base de dados, para co
 ![cd12_AmericaGrafico.png](https://github.com/geosidnei/desafio1-cd/blob/main/cd12_AmericaGrafico.png)
 
 
-Home: ----------------------> https://github.com/geosidnei/desafio1-cd/blob/main/README.md
+Home: -------------------------------> https://github.com/geosidnei/desafio1-cd/blob/main/README.md
 
-Excel: --------------------->[https://github.com/geosidnei/desafio1-cd/blob/main/excel.md]
+Módulo 2: Excel: --------------------> [https://github.com/geosidnei/desafio1-cd/blob/main/excel.md]
 
-Análise exploratória: -----> [https://github.com/geosidnei/desafio1-cd/blob/main/analise.md]
+Módulo 3: Análise exploratória: -----> [https://github.com/geosidnei/desafio1-cd/blob/main/analise.md]
